@@ -59,9 +59,5 @@ class LinkedList:
         return LinkedList(self)
 
 
-
-
-
-
 class EmptyListException(Exception):
     pass
